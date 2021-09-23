@@ -7,4 +7,10 @@ Dribbiling = "Dribbiling: 89"
 Defending = "Defending: 80" 
 
 
-print(Playername,Pace, Shooting, Passing, Dribbiling, Fysiek, Defending)
+print(Playername)
+print( Pace ) 
+print(Shooting) 
+print(Passing) 
+print (Dribbiling) 
+print (Fysiek)
+print (Defending)
