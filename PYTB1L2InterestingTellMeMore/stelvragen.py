@@ -1,14 +1,12 @@
-score = 0 
     
-
-print ("Hello you!")
+print ("Hallo!")
 print ("Ik ben Faissal")
 
 x = input("Wie ben jij?")
-print ('Hello,' + x)
+print ('Hallo,' + x + "leuke naam")
 
-b = input("Hoe oud ben je?")
-print ('Ah je bent,' + b)
+antwoord = input("Hoe oud ben je? ")
+print("Aha, je bent dus," + antwoord + ",jaar oud, leuk zeg!")
 
 c = input("Waar woon je?")
-print ('Oh leuke plek ,' + c)
+print ("Aha, je woont dus in ," + c + ",leuke plek" )
