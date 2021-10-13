@@ -1,6 +1,6 @@
 Character = "#"
 
-Float = 2
+Float = 2.5
 
 Boolean1 = False
 Boolean2 = True
