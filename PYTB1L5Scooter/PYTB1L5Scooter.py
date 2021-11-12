@@ -7,7 +7,7 @@ liter_per_kilometer = 0.2
 
 def maandkosten (km_per_maand):
     eindkosten = km_per_maand * kosten_per_liter * liter_per_kilometer + verzekering_per_maand
-    print("Je eindkosten zijn",eindkosten)
+    print("Je eindkosten zijn",eindkosten, "Euro")
 
 while not isinstance(invoer, float):
 
